@@ -1,2 +1,2 @@
 # hello-world
-jsut a repository 
+just a repository 
